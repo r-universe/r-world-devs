@@ -5,3 +5,6 @@
 [submodule "cohortBuilder"]
 	path = cohortBuilder
 	url = https://github.com/r-world-devs/cohortbuilder
+[submodule "shinyCohortBuilder"]
+	path = shinyCohortBuilder
+	url = https://github.com/r-world-devs/shinycohortbuilder
