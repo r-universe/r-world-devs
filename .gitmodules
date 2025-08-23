@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "GitAI"]
+	path = GitAI
+	url = https://github.com/r-world-devs/gitai
 [submodule "GitStats"]
 	path = GitStats
 	url = https://github.com/r-world-devs/gitstats
