@@ -11,6 +11,9 @@
 [submodule "cohortBuilder"]
 	path = cohortBuilder
 	url = https://github.com/r-world-devs/cohortbuilder
+[submodule "jsplyr"]
+	path = jsplyr
+	url = https://github.com/r-world-devs/jsplyr
 [submodule "shinyCohortBuilder"]
 	path = shinyCohortBuilder
 	url = https://github.com/r-world-devs/shinycohortbuilder
